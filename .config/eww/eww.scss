@@ -1,0 +1,17 @@
+@import "/home/shinra/.cache/wal/colors.scss";
+
+* {
+  all: unset;
+  font-family: "Iosevka";
+  font-weight: bold;
+}
+
+@import "/home/shinra/.config/eww/scss/bar.scss";
+@import "/home/shinra/.config/eww/scss/side-bar.scss";
+@import "/home/shinra/.config/eww/scss/wallpaper.scss";
+@import "/home/shinra/.config/eww/scss/device-control.scss";
+@import "/home/shinra/.config/eww/scss/resource-monitor.scss";
+@import "/home/shinra/.config/eww/scss/notification.scss";
+@import "/home/shinra/.config/eww/scss/custom-calendar.scss";
+@import "/home/shinra/.config/eww/scss/music-control.scss";
+

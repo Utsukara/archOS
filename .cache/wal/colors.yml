@@ -1,0 +1,24 @@
+wallpaper: "/home/shinra/wallpapers/19.jpg"
+
+special:
+    background: "#161d1c"
+    foreground: "#cedbd7"
+    cursor: "#cedbd7"
+
+colors:
+    color0: "#161d1c"
+    color1: "#D8A06B"
+    color2: "#E9CF72"
+    color3: "#708B8C"
+    color4: "#AAA28D"
+    color5: "#D4B293"
+    color6: "#EDD2A3"
+    color7: "#cedbd7"
+    color8: "#909996"
+    color9: "#D8A06B"
+    color10: "#E9CF72"
+    color11: "#708B8C"
+    color12: "#AAA28D"
+    color13: "#D4B293"
+    color14: "#EDD2A3"
+    color15: "#cedbd7"

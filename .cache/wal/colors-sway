@@ -1,0 +1,21 @@
+set $wallpaper /home/shinra/wallpapers/19.jpg
+
+set $background #161d1c
+set $foreground #cedbd7
+
+set $color0 #161d1c
+set $color1 #D8A06B
+set $color2 #E9CF72
+set $color3 #708B8C
+set $color4 #AAA28D
+set $color5 #D4B293
+set $color6 #EDD2A3
+set $color7 #cedbd7
+set $color8 #909996
+set $color9 #D8A06B
+set $color10 #E9CF72
+set $color11 #708B8C
+set $color12 #AAA28D
+set $color13 #D4B293
+set $color14 #EDD2A3
+set $color15 #cedbd7

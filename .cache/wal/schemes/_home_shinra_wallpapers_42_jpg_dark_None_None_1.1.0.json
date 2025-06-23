@@ -1,0 +1,27 @@
+{
+    "wallpaper": "/home/shinra/wallpapers/42.jpg",
+    "alpha": "100",
+    "special": {
+        "background": "#0a1510",
+        "foreground": "#95bfdc",
+        "cursor": "#95bfdc"
+    },
+    "colors": {
+        "color0": "#0a1510",
+        "color1": "#2F6662",
+        "color2": "#467154",
+        "color3": "#3F8753",
+        "color4": "#4F8F5B",
+        "color5": "#175AAC",
+        "color6": "#1F76CA",
+        "color7": "#95bfdc",
+        "color8": "#68859a",
+        "color9": "#2F6662",
+        "color10": "#467154",
+        "color11": "#3F8753",
+        "color12": "#4F8F5B",
+        "color13": "#175AAC",
+        "color14": "#1F76CA",
+        "color15": "#95bfdc"
+    }
+}

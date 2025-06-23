@@ -1,0 +1,23 @@
+" Special
+let wallpaper  = "/home/shinra/wallpapers/19.jpg"
+let background = "#161d1c"
+let foreground = "#cedbd7"
+let cursor     = "#cedbd7"
+
+" Colors
+let color0  = "#161d1c"
+let color1  = "#D8A06B"
+let color2  = "#E9CF72"
+let color3  = "#708B8C"
+let color4  = "#AAA28D"
+let color5  = "#D4B293"
+let color6  = "#EDD2A3"
+let color7  = "#cedbd7"
+let color8  = "#909996"
+let color9  = "#D8A06B"
+let color10 = "#E9CF72"
+let color11 = "#708B8C"
+let color12 = "#AAA28D"
+let color13 = "#D4B293"
+let color14 = "#EDD2A3"
+let color15 = "#cedbd7"
